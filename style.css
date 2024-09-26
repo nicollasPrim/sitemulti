@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(231, 231, 231);
+    color: black;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
+    height: 100vh;
+}
+
+img{
+    border: 4px rgb(128, 114, 255) solid;
+    border-radius: 12px;
+    height: 350px;
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    background-color: rgb(47, 0, 255);
+    color: white;
+    border: 3px rgb(231, 231, 231) solid;
+    font-size: 17px;
+    padding: 7px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    transition: 0.3s;
+    font-weight: bolder;
+}
+
+.botinic{
+    margin-top: 180px;
+}
+
+button:hover{
+    font-size: 1.3rem;
+}
+
+a{
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover{
+    font-size: 1.3rem;
+}
